@@ -1,0 +1,4 @@
+hello world
+error: algo falló
+todo bien
+ERROR: otro problema

@@ -1,0 +1,14 @@
+[package]
+name = "kernel_hello_world"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+bootloader = "0.9"
+x86_64 = "0.15"
+spin = "0.9"
+bitflags = "2.4"
+
+[[bin]]
+name = "kernel_hello_world"
+path = "src/main.rs"

@@ -1,0 +1,6 @@
+# Carpetas de compilación de Rust (pesadas, se regeneran con cargo build)
+target/
+
+# Archivos generados durante los proyectos (no son código fuente)
+*.bin
+wal_*.log
