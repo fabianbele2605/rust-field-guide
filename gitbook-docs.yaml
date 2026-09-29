@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: Rust Field Guide
+  structure:
+    - type: space
+      key: rust-field-guide
+      title: Rust Field Guide
+      path: rust-field-guide
+      default: true
+      content:
+        directory: ./
