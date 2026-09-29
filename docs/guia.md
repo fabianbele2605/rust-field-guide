@@ -89,6 +89,8 @@ DOMINIO (Experto en esos campos)
 | ☁️ Distributed Systems | `distributed-systems/` | 10 (KV Server) ✅, 11 (Distributed KV Store) ✅, 12 (Mini Distributed DB) ✅ | ✅ Completado |
 | 📦 CLI / Developer Tools | `cli-tools/` | 13 (rgrep) ✅, 14 (Mini Git) ✅, 15 (Mini Compiler) ✅ | ✅ Completado |
 | 🤖 AI / ML | `ia-ml/` | 16 (Tensor) ✅, 17 (Neural Network) ✅, 18 (Inference Engine) ✅ | ✅ Completado |
+| 🔐 Cybersecurity | `cybersecurity/` | 19 (Port Scanner) ✅, 20 (Packet Analyzer) ✅, 21 (Mini IDS) ✅ | ✅ Completado |
+| 🌐 WebAssembly | `webassembly/` | 28 (Rust→WASM) ✅, 29 (Image Processing), 30 (WASM Runtime) | 🔄 En progreso |
 
 > **Nota sobre numeración:** 6.1/6.2/6.3 son profundizaciones dentro de Kernel Development (Paging, Syscalls, Filesystem) hechas después del Proyecto 6 — no reemplazan el "Proyecto 7: TCP Client" de Networking definido más abajo en esta guía.
 
